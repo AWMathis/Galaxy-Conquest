@@ -1,6 +1,8 @@
 # Galaxy Conquest
 
-![alt text](https://github.com/alexm327/galaxy-conquest/master/images/gameplay1.png)
+![](Images/Gameplay1.png?raw=true "Gameplay")
+![](Images/Gameplay2.png?raw=true "Gameplay")
+![](Images/Gameplay3.png?raw=true "Gameplay")
 
 ## Team Members
 Alex Mathis - Animator/Gameplay/UI Programing
